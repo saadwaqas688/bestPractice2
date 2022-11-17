@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "AvenirNext";
+  font-family: "HelviticaNue";
+}
+html {
+  font-size: 100%;
+}
+#input[type="file"] {
+  display: none;
+}
+.image-upload {
+  cursor: pointer;
+}
+.fullscreen-enabled {
+  background: #f7f6fa;
+}
+.custom-class {
+  background-color: pink
+}
+.css-oj8kmw{
+  overflow-y: auto;
+}
